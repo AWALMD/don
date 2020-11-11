@@ -1,0 +1,10 @@
+
+$-Pkg update
+$-pkg upgarde
+$-pkg install git
+$-pkg install python
+$-pkg install python2
+$-git clone https://github.com/AWALmdAWAL/don
+$-cd don
+$-chmod +x *
+$- python2 don
